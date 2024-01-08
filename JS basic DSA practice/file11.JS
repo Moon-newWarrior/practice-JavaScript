@@ -1,0 +1,1 @@
+// program to find given no is even or odd

@@ -1,0 +1,1 @@
+// fuction for returnig the absolute no. in argument

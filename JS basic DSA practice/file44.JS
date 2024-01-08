@@ -1,0 +1,1 @@
+// wap a functuin sort the array in ascending and decending order 

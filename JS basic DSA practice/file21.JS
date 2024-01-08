@@ -1,0 +1,1 @@
+//wap to find the maximum and minimum and mode of given array series elements

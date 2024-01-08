@@ -1,0 +1,1 @@
+// functions to display the no. of occurance of vowels, constant , words , spaces and special character in string

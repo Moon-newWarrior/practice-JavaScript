@@ -1,0 +1,1 @@
+// wap convert temp from one degree to centigrade

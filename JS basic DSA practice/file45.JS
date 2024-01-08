@@ -1,0 +1,1 @@
+// write the function or progrm for reeme duplicate and repeating elements from the array

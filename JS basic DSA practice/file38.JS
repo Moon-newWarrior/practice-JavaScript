@@ -1,0 +1,1 @@
+// frunction to find that the string input is palinme or not

@@ -1,0 +1,2 @@
+/* crateing webspage : a class of n students take an annual examination in m subject . A pogram to read tthe marks of each subject of student
+    rollno. wise and at last display the average No. gained by student  and average no. gained on each subject of the calss */

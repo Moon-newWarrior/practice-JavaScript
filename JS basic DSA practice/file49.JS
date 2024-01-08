@@ -1,0 +1,1 @@
+//program to count he number of lines ,words, charcter in a text enterd input

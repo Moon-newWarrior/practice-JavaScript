@@ -1,0 +1,1 @@
+//program to print 10 natural numbers and their sum

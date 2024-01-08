@@ -1,0 +1,1 @@
+// program to shift input data by two bits to left

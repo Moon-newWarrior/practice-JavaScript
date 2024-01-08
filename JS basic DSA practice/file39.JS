@@ -1,0 +1,1 @@
+// merging 1d array ,excluding the repeating element

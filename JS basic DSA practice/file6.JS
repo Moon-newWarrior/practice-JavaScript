@@ -1,0 +1,1 @@
+// wap to swap two numbers without using thierd no.

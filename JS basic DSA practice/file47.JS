@@ -1,0 +1,1 @@
+//program to convert the statement string into an array 

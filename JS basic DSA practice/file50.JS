@@ -1,0 +1,1 @@
+// program to show the scope of local , global ,block scope variables

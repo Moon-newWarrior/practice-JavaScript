@@ -1,0 +1,1 @@
+// printing prime number from 1 to 1000 and finding the giveninput no. is prime or not

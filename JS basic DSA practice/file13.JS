@@ -1,0 +1,1 @@
+// program on switch statement display a weekday

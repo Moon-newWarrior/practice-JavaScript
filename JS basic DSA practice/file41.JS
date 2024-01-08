@@ -1,0 +1,1 @@
+// proggram uses loop  to print power of 2 , table of it from power 0 to power 20
